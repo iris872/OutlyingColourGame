@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+}
+
+button {
+  background-color: white;
+  border-radius: 15%;
+  height: 100px;
+  width: 100px;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa&display=swap");
+
+.score-container {
+  color: white;
+  font-family: "Comfortaa", cursive;
+  font-size: 42px;
+  text-align: center;
+  margin-top: 20vh;
+}
+
+.square-container {
+  text-align: center;
+  margin-top: 10vh;
+}
+
+.square {
+  display: inline-block;
+}
